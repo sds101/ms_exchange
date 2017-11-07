@@ -1,3 +1,16 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+
+      <div id="kline"></div>
+
+@section scripts{
+      <script type="text/javascript">
+        $("#kline").kline({
+                width:1200,
+             url:"json/kline.json",
+        });
+      
+
+        </script>
+}
