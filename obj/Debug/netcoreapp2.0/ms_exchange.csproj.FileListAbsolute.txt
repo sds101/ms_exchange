@@ -1,0 +1,10 @@
+/home/peter/project/ms_exchange/bin/Debug/netcoreapp2.0/ms_exchange.deps.json
+/home/peter/project/ms_exchange/bin/Debug/netcoreapp2.0/ms_exchange.runtimeconfig.json
+/home/peter/project/ms_exchange/bin/Debug/netcoreapp2.0/ms_exchange.runtimeconfig.dev.json
+/home/peter/project/ms_exchange/bin/Debug/netcoreapp2.0/ms_exchange.dll
+/home/peter/project/ms_exchange/bin/Debug/netcoreapp2.0/ms_exchange.pdb
+/home/peter/project/ms_exchange/obj/Debug/netcoreapp2.0/ms_exchange.csproj.CoreCompileInputs.cache
+/home/peter/project/ms_exchange/obj/Debug/netcoreapp2.0/ms_exchange.AssemblyInfoInputs.cache
+/home/peter/project/ms_exchange/obj/Debug/netcoreapp2.0/ms_exchange.AssemblyInfo.cs
+/home/peter/project/ms_exchange/obj/Debug/netcoreapp2.0/ms_exchange.dll
+/home/peter/project/ms_exchange/obj/Debug/netcoreapp2.0/ms_exchange.pdb
